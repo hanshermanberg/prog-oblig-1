@@ -48,23 +48,23 @@ public class Controller{
         try{
             alder=Integer.parseInt(txtalder.getText());
         } catch(InvalidAgeException e){
-            System.err.println("Ugyldig alder");
+            lblFeilmelding.setText("Ugyldig alder");
         }
         try{
             dag=Integer.parseInt(txtDag.getText());
         }
         catch (InvalidDateException e){
-            System.err.println("Ugyldig dag i måned");
+            lblFeilmelding.setText("Ugyldig dag i måned");
         }
         try{
             år=Integer.parseInt(txtÅr.getText());
         } catch (InvalidDateException e){
-            System.err.println("Ugyldig år");
+            lblFeilmelding.setText("Ugyldig år");
         }
         try{
             måned=Integer.parseInt(txtMåned.getText());
         } catch (InvalidDateException e){
-            System.err.println("Ugyldig måned");
+            lblFeilmelding.setText("Ugyldig måned");
         }
         Dato fødselsdato=new Dato(dag,måned,år);
         Person enPerson=new Person(navn,alder,fødselsdato);
