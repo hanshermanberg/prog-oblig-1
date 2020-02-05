@@ -19,10 +19,14 @@ class Person {
     String navn;
     int alder;
     Dato fødselsdato;
-    public Person(String navn, int alder, Dato fødselsdato){
+    String email;
+    String tlfnr;
+    public Person(String navn, int alder, Dato fødselsdato, String email, String tlfnr){
         this.navn=navn;
         this.alder=alder;
         this.fødselsdato=fødselsdato;
+        this.email=email;
+        this.tlfnr=tlfnr;
     }
 }
 
