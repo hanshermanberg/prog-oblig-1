@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcbb5173-6bf3-4765-bfea-a9ade303f78e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/prog-oblig-1" />
+  </component>
+  <component name="ProjectId" id="1X4D9mRoH0uqc9b7cktBS3ADTln" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peran\Documents\Programutvikling\Oblig 1\prog-oblig-1\src\prog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\peran\Documents\Programutvikling\Oblig 1\prog-oblig-1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="prog.Main" />
+      <module name="Oblig 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Oblig 1" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="PARAMETERS" value="" />
+      <dir value="$PROJECT_DIR$/Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Unnamed" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcbb5173-6bf3-4765-bfea-a9ade303f78e" name="Default Changelist" comment="" />
+      <created>1580296323091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580296323091</updated>
+      <workItem from="1580296324306" duration="2514000" />
+      <workItem from="1580369535917" duration="43000" />
+      <workItem from="1580899966785" duration="3388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="140" key="#Project_Structure" timestamp="1580297390811">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="140" key="#Project_Structure/0.0.1500.960@0.0.1500.960" timestamp="1580297390811" />
+    <state x="206" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580900152630">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1580900152630" />
+    <state x="600" y="370" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580296441020">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="600" y="370" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1500.960@0.0.1500.960" timestamp="1580296441020" />
+    <state x="424" y="197" key="FileChooserDialogImpl" timestamp="1580900134529">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="424" y="197" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1580900134529" />
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1580904034531">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580904034531" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1580904034531">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1580904034531" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1580904034531">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1580904034531" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1580904034531">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1580904034531" />
+    <state x="231" y="56" key="SettingsEditor" timestamp="1580297425323">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="231" y="56" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1580297425323" />
+    <state x="446" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1580369553676">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="446" y="306" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1580369553676" />
+    <state x="473" y="375" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580900434057">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="473" y="375" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1500.960@0.0.1500.960" timestamp="1580900434057" />
+    <state x="414" y="207" width="672" height="678" key="search.everywhere.popup" timestamp="1580902452731">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="414" y="207" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1580902452731" />
+  </component>
+</project>
