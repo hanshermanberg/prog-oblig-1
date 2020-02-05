@@ -10,7 +10,7 @@ public class PersonValidator {
 
         return false;
     }
-    public static boolean email(){
+    public static boolean email(String email){
         return false;
     }
     public static boolean tlfnr(){
